@@ -141,9 +141,9 @@ namespace Week2Exercise8
                     Console.Write(" ");
                 }
 
-                for (j = 1; j <= i; j++)
+                for (j = 1; j <= 2* i -1; j++)
                 {
-                    Console.Write("* ");
+                    Console.Write("*");
                 }
                 Console.WriteLine();
             }
@@ -155,9 +155,9 @@ namespace Week2Exercise8
                     Console.Write(" ");
                 }
 
-                for (j = n-1; j >= i; j--)
+                for (j = n-1; j >= 2*i-n+1; j--)
                 {
-                    Console.Write("* ");
+                    Console.Write("*");
                 }
                 Console.WriteLine("");
             }
