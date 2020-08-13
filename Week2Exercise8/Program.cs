@@ -19,7 +19,7 @@ namespace Week2Exercise8
             //Exe7();
             //Exe8();
             //Exe9();
-            Exe10();
+            //Exe10();
         }
 
         static public void Exe1()
