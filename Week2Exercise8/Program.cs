@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.Runtime.InteropServices.ComTypes;
 
 namespace Week2Exercise8
 {
@@ -15,7 +16,10 @@ namespace Week2Exercise8
             //Exe4();
             //Exe5();
             //Exe6();
-            Exe7();
+            //Exe7();
+            //Exe8();
+            //Exe9();
+            Exe10();
         }
 
         static public void Exe1()
@@ -161,6 +165,53 @@ namespace Week2Exercise8
                 }
                 Console.WriteLine("");
             }
+        }
+        static public void Exe8()
+        {
+            Console.WriteLine("Podaj słowo: ");
+            string text = Console.ReadLine();
+            string reverse = "";
+
+            for (int i = text.Length -1; i>=0  ; i--)
+            {
+               reverse = string.Concat(reverse, text[i]);
+            }
+               Console.WriteLine(reverse);
+        }
+        static public void Exe9()
+        {
+            Console.WriteLine("Podaj liczbę dziesiątną: ");
+            int number = int.Parse(Console.ReadLine());
+            int i = 0;
+            int[] binary = new int[32];
+
+            while(number != 0)
+            {
+                binary[i++] = number % 2;
+                number = number / 2;
+            }
+            Console.WriteLine("Liczba binarna to: ");
+            for (int j = i-1; j>=0; j--)
+            {
+                Console.Write(binary[j]);
+            } 
+        }
+        static public void Exe10()
+        {
+            Console.WriteLine("Podaj pierwszą liczbę: ");
+            int first = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Podaj drugą liczbę: ");
+            int second = int.Parse(Console.ReadLine());
+
+            int i = first;
+
+            while (i % second !=0)
+            {
+                i += first;
+            }
+            Console.WriteLine($"NWW: {i}");
+
         }
     }
 }

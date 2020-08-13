@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FglRSLEz/vZi9YR+oeDtb2NvWXb4xLFUFL2IWwB2XQ5pxxj9EA7uq4+cvBLpMMxJnT9tQvMh5fXCS0ZO+oT6EA==",
+  "dgSpecHash": "c2sB1eUgbtZV5DhVoCqUfnajlxrelPnlfsGLTT2hMJBpesdLmpfWyAAQ5yzWdwlIxoYnfhuL87LlC+3wafvyVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dymek\\source\\repos\\Week2Exercise8\\Week2Exercise8\\Week2Exercise8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\drzepiejewski\\source\\repos\\Week2Exercise8\\Week2Exercise8\\Week2Exercise8\\Week2Exercise8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drzepiejewski\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

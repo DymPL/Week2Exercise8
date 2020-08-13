@@ -11,3 +11,16 @@ C:\Users\Dymek\source\repos\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.
 C:\Users\Dymek\source\repos\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.dll
 C:\Users\Dymek\source\repos\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.pdb
 C:\Users\Dymek\source\repos\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.genruntimeconfig.cache
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\bin\Debug\netcoreapp3.1\Week2Exercise8.exe
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\bin\Debug\netcoreapp3.1\Week2Exercise8.deps.json
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\bin\Debug\netcoreapp3.1\Week2Exercise8.runtimeconfig.json
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\bin\Debug\netcoreapp3.1\Week2Exercise8.runtimeconfig.dev.json
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\bin\Debug\netcoreapp3.1\Week2Exercise8.dll
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\bin\Debug\netcoreapp3.1\Week2Exercise8.pdb
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.csprojAssemblyReference.cache
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.AssemblyInfoInputs.cache
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.AssemblyInfo.cs
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.dll
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.pdb
+C:\Users\drzepiejewski\source\repos\Week2Exercise8\Week2Exercise8\Week2Exercise8\obj\Debug\netcoreapp3.1\Week2Exercise8.genruntimeconfig.cache
